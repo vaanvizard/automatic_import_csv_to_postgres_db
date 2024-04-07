@@ -6,8 +6,8 @@ Can be executed from a terminal.
 
 
 ## Necessary User Inputs:
-*Postgres Password* - to connect to psql host
-*New Database* - choose name for new database
+*Postgres Password* - to connect to psql host<br>
+*New Database* - choose name for new database<br>
 *CSV File Folder Name* - name of target folder that contains the csv files being the database foundation
 
 ## Usage Remarks
