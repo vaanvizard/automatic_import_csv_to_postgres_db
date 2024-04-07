@@ -30,7 +30,8 @@ Instead of always creating a new database, it would be more useful to have the s
 - Create new database
 - Create additional tables in existing database
 - Overwrite existing database
-- Overwrite existing tables in existing database<br>
+- Overwrite existing tables in existing database
+<br>
 PostgreSQL does not support CREATE DATABASE IF NOT EXISTS syntax and it is a little more complicated to achieve this, plus I personally do not need this function currently. This is why for now I have not yet adjusted the code to that.
 
 ### Testing:
