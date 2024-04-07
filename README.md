@@ -1,7 +1,7 @@
 # automatic_import_csv_to_postgres_db
 Python script to automatically create a new postgres database with tables based on csv files.
 
-The script uses the following libraries: *os, pandas, psycopg2, sqlalchemy*
+The script uses the following libraries: *os, pandas, psycopg2, sqlalchemy*<br>
 Can be executed from a terminal.
 
 
